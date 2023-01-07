@@ -1,2 +1,1 @@
-# kisisel-website
-Kişisel Website #Bilmemkac
+# Kişisel Website #BilmemKac
